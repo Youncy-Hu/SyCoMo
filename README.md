@@ -1,5 +1,4 @@
-# SyCoMo
-The repository of the paper "[Decomposing Style, Content, and Motion for Videos](https://doi.org/10.1016/j.jvcir.2022.103686)".
+# Decomposing Style, Content, and Motion for Videos [[Paper](https://doi.org/10.1016/j.jvcir.2022.103686)]
 ![Screenshot](assets/teaser.gif)
 
 ## Paper Introduction
