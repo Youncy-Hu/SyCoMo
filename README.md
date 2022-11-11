@@ -1,4 +1,5 @@
-# Decomposing Style, Content, and Motion for Videos [[Paper](https://doi.org/10.1016/j.jvcir.2022.103686)]
+# Decomposing Style, Content, and Motion for Videos 
+<p align="center">[[Paper](https://doi.org/10.1016/j.jvcir.2022.103686)]</p>
 ![Screenshot](assets/teaser.gif)
 
 ## Paper Introduction
