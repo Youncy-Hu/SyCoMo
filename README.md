@@ -1,10 +1,8 @@
-# Decomposing Style, Content, and Motion for Videos 
-[[Paper](https://doi.org/10.1016/j.jvcir.2022.103686)]
+# Decomposing Style, Content, and Motion for Videos
 
+This is the repository that contains source code for the paper "Decomposing Style, Content, and Motion for Videos". [[Paper](https://doi.org/10.1016/j.jvcir.2022.103686)][[Website](https://youncy-hu.github.io/SyCoMo/)]
+ 
 ![Screenshot](assets/teaser.gif)
-
-This is the repository that contains source code for the [SyCoMo](https://youncy-hu.github.io/SyCoMo/).
-
 
 ## Citation
 ```bash
