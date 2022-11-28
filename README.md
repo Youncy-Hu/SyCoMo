@@ -3,31 +3,8 @@
 
 ![Screenshot](assets/teaser.gif)
 
-## Paper Summary
-In this paper, we present the first video decomposition framework, named SyCoMo, that factorizes a video into style, content, and motion. Such a fine-grained decomposition enables flexible video editing, and for the first time allows for tripartite video synthesis. SyCoMo is a unified and domain-agnostic learning framework which can process videos of various object categories without domain-specific design or supervision. Different from other motion decomposition work, SyCoMo derives motion from style-free content by isolating style from content in the first place. Content is organized into subchannels, each of which corresponds to an atomic motion. This design naturally forms an information bottleneck which facilitates a clean decomposition. Experiments show that SyCoMo decomposes videos of various categories into interpretable content subchannels and meaningful motion patterns. Ablation studies also show that deriving motion from style-free content makes the keypoints or landmarks of the object more accurate. We demonstrate the photorealistic quality of the novel tripartite video synthesis in addition to three bipartite synthesis tasks named as style, content, and motion transfer.
+This is the repository that contains source code for the [SyCoMo](https://youncy-hu.github.io/SyCoMo/).
 
-## Method
-![Screenshot](assets/framework.png)
-
-## Synthesized results
-### Tripartite synthesis
-![Screenshot](assets/tripartite_synthesis_1.gif)
-![Screenshot](assets/tripartite_synthesis_2.gif)
-
-### Bipartite synthesis
-#### Style Transfer
-![Screenshot](assets/style_transfer_1.gif)
-![Screenshot](assets/style_transfer_2.gif)
-![Screenshot](assets/style_transfer_3.gif)
-
-#### Motion Transfer
-![Screenshot](assets/motion_transfer_1.gif)
-![Screenshot](assets/motion_transfer_2.gif)
-![Screenshot](assets/motion_transfer_3.gif)
-
-#### Content Transfer
-![Screenshot](assets/content_transfer_1.gif)
-![Screenshot](assets/content_transfer_2.gif)
 
 ## Citation
 ```bash
